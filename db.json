@@ -1,0 +1,19 @@
+{
+    "user":[
+      {
+        "id":1,
+        "image": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "username": "Harry Potter",
+        "email": "harry@gmail.com",
+        "password": "harry"
+      }
+    ],
+    "post":[
+      {
+        "id":1,
+        "image": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "username": "Harry Potter",
+        "text": "J. K. Rowling"
+      }
+    ]
+  }
